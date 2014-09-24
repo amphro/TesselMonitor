@@ -1,0 +1,16 @@
+{
+  "name": "TesselMonitor",
+  "version": "0.0.0",
+  "description": "A script to run on tessel to send data to the data monitor.",
+  "main": "monitor.js",
+  "dependencies": {
+    "climate-si7005": "^0.1.3",
+    "http": "0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Dvornik",
+  "license": "ISC"
+}
