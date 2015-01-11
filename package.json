@@ -1,7 +1,7 @@
 {
   "name": "TesselMonitor",
   "version": "0.0.0",
-  "description": "A script to run on tessel to send data to the data monitor.",
+  "description": "A script to run on tessel to send data to a data monitor.",
   "main": "monitor.js",
   "dependencies": {
     "climate-si7005": "^0.1.3",
